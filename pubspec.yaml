@@ -30,7 +30,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  image_picker: ^0.8.4+4  # 用於拍照和選擇照片
+  image_picker: ^1.0.4
   mysql1: ^0.20.0  # 用於連接MariaDB數據庫
 
   # The following adds the Cupertino Icons font to your application.
