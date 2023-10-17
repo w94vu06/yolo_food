@@ -32,6 +32,9 @@ dependencies:
     sdk: flutter
   image_picker: ^0.8.3
   mysql1: ^0.20.0  # 用於連接MariaDB數據庫
+  http: ^0.13.6
+  http_parser: ^4.0.2
+  translator: ^0.1.7
 
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
